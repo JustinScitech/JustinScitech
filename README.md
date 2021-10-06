@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hello, Justin here 👋
 
 <!--
 **JustinScitech/JustinScitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I'm a grade 12 student passionate about exploring computer software, games, and electronics!
+
+### Learning :
+-  Python, C#, and LUA
+-  Game development in Unity
+
+### My Hobbies : 
+- ✨ Reading light novels (dystopian and romantic novels especially!)
+- ✨ Video editing and producing YouTube videos
+- ✨ Creating 3D animations in Blender
+- ✨ Karate and bike riding
+- ✨ Playing guitar
+
+### Experiences :
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JSS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+logo=Raspberry-Pi)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinscitech&layout=compact&theme=dark&hide_border=true)
+
+### - More About Me : 
+- 📫 My email: lau.c.justin@gmail.com
+- 📄 See my resume:
+- Find my projects on my personal website: WIP
+
+<h3>🔍 Where to find me</h3>
+<p>
+<a href="https://www.linkedin.com/in/justin-lau-a55b8417a/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square" /></a> 
+<a href="https://twitter.com/ArcticZombieYT" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square" /></a>
+</p>
