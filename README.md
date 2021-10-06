@@ -27,7 +27,6 @@ I'm a grade 12 student passionate about exploring computer software, games, and 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-logo=Raspberry-Pi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinscitech&layout=compact&theme=dark&hide_border=true)
 
