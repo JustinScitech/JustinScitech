@@ -7,8 +7,8 @@
 I'm a grade 12 student passionate about exploring computer software, games, and electronics!
 
 ### Learning :
--  Python, C#, and LUA
--  Game development in Unity
+-  🌱 Python, C#, and LUA
+-  🌱 Game development in Unity
 
 ### My Hobbies : 
 - ✨ Reading light novels (dystopian and romantic novels especially!)
