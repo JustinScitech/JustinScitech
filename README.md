@@ -38,5 +38,3 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 <h3>🔍 Where to find me</h3>
 <p>
 <a href="https://www.linkedin.com/in/justin-lau-a55b8417a/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-linkedin-0073B1?style=flat-square" /></a> 
-<a href="https://twitter.com/ArcticZombieYT" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square" /></a>
-</p>
