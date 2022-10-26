@@ -4,11 +4,11 @@
 **JustinScitech/JustinScitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a grade 12 student passionate about exploring computer software, games, and electronics!
+I'm an undergraduate Computer Engineering student at the University of Waterloo passionate about exploring computer software, games, and electronics!
 
 ### Learning :
--  🌱 Python, C#, and LUA
--  🌱 Game development in Unity
+-  🌱 Python, React.js, and C++
+-  🌱 Web development
 
 ### My Hobbies : 
 - ✨ Reading light novels (dystopian and romantic novels especially!)
