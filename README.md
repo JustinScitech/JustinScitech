@@ -11,7 +11,6 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 -  🌱 Web development
 
 ### My Hobbies : 
-- ✨ Reading light novels (dystopian and romantic novels especially!)
 - ✨ Video editing and producing YouTube videos
 - ✨ Creating 3D animations in Blender
 - ✨ Karate and bike riding
