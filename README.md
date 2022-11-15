@@ -28,9 +28,9 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinscitech&layout=compact&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinScitech&theme=radical)
 
 ### - More About Me : 
-- 📫 My email: lau.c.justin@gmail.com
 - 📄 See my resume:
 - Find my projects on my personal website: WIP
 
