@@ -29,8 +29,6 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinscitech&layout=compact&theme=dark&hide_border=true)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=justinscitech)](https://github.com/JustinScitech/JustinScitech)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinScitech&theme=radical)
 
 ### - More About Me : 
