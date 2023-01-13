@@ -33,7 +33,7 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 
 ### - More About Me : 
 - 📄 See my resume: https://flowcv.com/resume/34vq11ckq7
-- Find my projects on my personal website: WIP
+- Find my projects on my personal website: https://justinscitech.github.io/
 
 <h3>🔍 Where to find me</h3>
 <p>
