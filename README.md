@@ -11,8 +11,8 @@
 I'm an undergraduate Computer Engineering student at the University of Waterloo passionate about exploring computer software, games, and electronics!
 
 ### Learning :
--  🌱 Python, React.js, and C++
--  🌱 Web development
+-  🌱 Python, SQL, MongoDB, React.js, and C++
+-  🌱 Web development, AI/ML
 
 ### My Hobbies : 
 - ✨ Video editing and producing YouTube videos
