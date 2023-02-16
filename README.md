@@ -5,8 +5,6 @@
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello! I'm;Justin Lau)](https://git.io/typing-svg)
-
 I'm an undergraduate Computer Engineering student at the University of Waterloo passionate about exploring computer software, games, and electronics!
 
 ### Learning :
