@@ -31,9 +31,9 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinscitech&layout=compact&theme=dark&hide_border=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinscitech&layout=compact&theme=dark&hide_border=true) -->
 
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinScitech&theme=radical) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinScitech&theme=radical) 
 
 ### More About Me : 
 - 📄 See my resume: https://flowcv.com/resume/34vq11ckq7
