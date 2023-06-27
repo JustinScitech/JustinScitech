@@ -3,15 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hello+I'm+Justin+Lau!)](https://git.io/typing-svg) 
 
 
-<!--
-**JustinScitech/JustinScitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
 I'm an undergraduate Computer Engineering student at the University of Waterloo passionate about exploring computer software, games, and electronics!
 
 ### Learning :
--  🌱 Python, SQL, MongoDB, React.js, and C++
 -  🌱 Web development, AI/ML
 
 ### My Hobbies : 
@@ -19,7 +13,7 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 - ✨ Creating 3D animations in Blender
 - ✨ Karate and bike riding
 - ✨ Playing guitar
-
+<!--
 ### Experiences :
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -30,6 +24,7 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+-->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinscitech&layout=compact&theme=dark&hide_border=true) -->
 
