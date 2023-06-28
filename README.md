@@ -31,7 +31,6 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinScitech&theme=radical) -->
 
 ### More About Me : 
-- 📄 See my resume: https://flowcv.com/resume/34vq11ckq7
 - Find my projects on my personal website: https://justinscitech.github.io/
 
 <h3>🔍 Where to find me</h3>
