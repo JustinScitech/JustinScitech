@@ -1,11 +1,10 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hello+I'm+Justin+Lau!)](https://git.io/typing-svg) 
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hello+I'm+Justin+Lau!)](https://git.io/typing-svg)
 
 ### I'm an undergraduate UWaterloo Computer Engineering student passionate about exploring computer peripherals and software development!
 - 🌱 Currently learning AI/ML, API development, & backend development
 - 🔭 Interested in exploring mobile dev development!
 - 📽️ I also like making YouTube videos, 3D animations, and biking in my free time!
-  
+
 ### Experience:
 
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;" />
@@ -20,14 +19,11 @@
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:15px;" />
 <img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:15px;" /> 
 
-<br></br>
+<br clear="left"/>
 
 ### More About Me: 
-
 Find my projects on my personal website: https://justinscitech.github.io/
 
 <h3>🔍 Where to find me</h3> 
 
 <a href="https://www.linkedin.com/in/justin-lau-a55b8417a/" target="_blank"><img align="left" alt="LinkedIn" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
-
-
