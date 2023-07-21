@@ -12,7 +12,6 @@ I'm an undergraduate Computer Engineering student at the University of Waterloo 
 - ✨ Video editing and producing YouTube videos
 - ✨ Creating 3D animations in Blender
 - ✨ Karate and bike riding
-- ✨ Playing guitar
 <!--
 ### Experiences :
 
