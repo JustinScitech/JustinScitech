@@ -22,7 +22,7 @@
 <br clear="left"/>
 
 ### More About Me: 
-Find my projects on my personal website: https://justinscitech.github.io/
+Find my projects on my personal website: https://www.jlau.tech
 
 <h3>🔍 Where to find me</h3> 
 
