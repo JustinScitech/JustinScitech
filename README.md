@@ -2,7 +2,7 @@
 
 ### I'm an undergraduate UWaterloo Computer Engineering student passionate about exploring computer peripherals and software development!
 - 🌱 Currently learning AI/ML, API development, & backend development
-- 🔭 Interested in exploring mobile dev development!
+- 🔭 Interested in exploring mobile dev!
 - 📽️ I also like making YouTube videos, 3D animations, and biking in my free time!
 
 ### Experience:
