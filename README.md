@@ -18,7 +18,7 @@ class ComputerEngineer:
 
     def moreInfo(self):
         aboutMe = {
-            "currentFocus" : ["Building a Roblox developer networking platform"],
+            "currentFocus" : ["Building Klink, a content creator networking platform"],
             "languages" : ["Python", "C++", "C", "C#", "Java", "Javascript", "TypeScript", "Lua"],
             "technologies" : {
                 "web" : ["React", "JavaScript", "Express.js", "Node.js", "HTML/CSS", "ASP.NET Core", "three.js"],
