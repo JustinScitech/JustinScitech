@@ -13,8 +13,7 @@ class ComputerEngineer:
         self.education = "UWaterloo Computer Engineering"
         self.location = "Canada"
         self.role = {
-            "current": "SWE @ Voldex",
-            "previous": "SWE @ SPS Commerce, BCS Automation"}
+            "current": "Incoming @ Tesla"}
 
     def moreInfo(self):
         aboutMe = {
