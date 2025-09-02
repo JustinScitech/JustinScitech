@@ -13,7 +13,7 @@ class ComputerEngineer:
         self.education = "UWaterloo Computer Engineering"
         self.location = "Canada"
         self.role = {
-            "current": "SWE @ Tesla"}
+            "current": "SWE @ Tesla, building Toona.io"}
 
     def moreInfo(self):
         aboutMe = {
@@ -37,7 +37,7 @@ class ComputerEngineer:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="100" height="100" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Click+the+link+below!)](https://git.io/typing-svg)
 
-<a href="https://www.jlau.tech">Learn more about me </a>
+<a href="https://www.justinlau.me">Learn more about me </a>
 
 <!--
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;" />
