@@ -4,7 +4,7 @@
 
 
 ```python
-- waterloo Computer Engineering student
+- waterloo ECE student
 - engineer @ Microsoft AI and Databricks, prev @ Tesla
 - built out Toona.io (VC backed, 100k users)
 - Roblox game developer, prev Driving Empire developer
