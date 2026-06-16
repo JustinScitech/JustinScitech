@@ -7,7 +7,7 @@
 - waterloo ECE student
 - engineer @ Microsoft AI and Databricks, prev @ Tesla
 - built out Toona.io (VC backed, 100k users)
-- Roblox game developer, prev Driving Empire developer
+- Roblox game studio owner (Legion Studios, 12k followers), prev Driving Empire developer
 - looking for new grad opportunities in 2027
 
 Contact me through my personal website for any inquiries or requests!
