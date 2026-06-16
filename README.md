@@ -4,9 +4,10 @@
 
 
 ```python
-- waterloo Computer Engineering student from Waterloo
-- currently incoming at Microsoft and Databricks for 2026
-- building Toona.io, RoCoder, games, and a few other projects
+- waterloo Computer Engineering student
+- engineer @ Microsoft AI and Databricks, prev @ Tesla
+- built out Toona.io (VC backed, 100k users)
+- Roblox game developer, prev Driving Empire developer
 - looking for new grad opportunities in 2027
 
 Contact me through my personal website for any inquiries or requests!
