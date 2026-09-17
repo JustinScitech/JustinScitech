@@ -5,7 +5,7 @@
 
 ```python
 - waterloo ECE student
-- engineer @ Microsoft AI and Databricks, prev @ Tesla
+- currently @ Livekit prev @ Databricks, Tesla, Voldex, SPS Commerce
 - built out Toona.io (VC backed, 100k users)
 - Roblox game studio owner (Legion Studios, 12k followers), prev Driving Empire developer
 - looking for new grad opportunities in 2027
