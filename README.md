@@ -1,19 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/readme-light.svg">
+  <img src="assets/readme-light.svg" alt="Hi, I'm Justin Lau. waterloo ECE student; currently @ LiveKit, prev @ Databricks, Tesla, Voldex, SPS Commerce; built out Toona.io (VC backed, 100k users); Roblox game studio owner (Legion Studios, 12k followers), prev Driving Empire developer; looking for new grad opportunities in 2027. Contact me through my personal website for any inquiries or requests! (Two stick figures wander into the README, gasp at each job, faint at LiveKit, and stretch 2027 until it's huge.)">
+</picture>
 
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="100" height="100" />[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7F7F7&width=435&lines=Hello+I'm+Justin+Lau!)](https://git.io/typing-svg)
-
-
-```python
-- waterloo ECE student
-- currently @ Livekit prev @ Databricks, Tesla, Voldex, SPS Commerce
-- built out Toona.io (VC backed, 100k users)
-- Roblox game studio owner (Legion Studios, 12k followers), prev Driving Empire developer
-- looking for new grad opportunities in 2027
-
-Contact me through my personal website for any inquiries or requests!
-```
-
-<a href="https://www.justinlau.me">Learn more about me </a>
+[Learn more about me →](https://justinscitech.github.io/)
 
 <!--
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:15px;" />
@@ -29,7 +20,3 @@ Contact me through my personal website for any inquiries or requests!
 <img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:15px;" />
 <br clear="left"/>
 -->
-
-
-
-<!--### Learn more about me-->
